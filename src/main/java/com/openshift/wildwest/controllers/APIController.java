@@ -31,7 +31,7 @@ public class APIController {
 
         @RequestMapping("/rbc")
         public String helloRBC() {
-                return "Hello from RBC!";
+                return "Hello from IBM!";
         }  
 	
 }
