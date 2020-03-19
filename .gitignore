@@ -1,0 +1,10 @@
+target/
+.classpath
+.project
+.settings/
+
+\.vscode/settings\.json
+
+\.vscode/
+
+.DS_Store
