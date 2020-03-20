@@ -26,7 +26,7 @@ public class APIController {
 
 	@RequestMapping("/")
 	public String helloDefault() {
-		return "Hello from Spring!";
+		return "Hello from RBC!";
 	}
 
         @RequestMapping("/rbc")
